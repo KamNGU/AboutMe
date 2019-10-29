@@ -7,12 +7,15 @@ Student at Lehigh University studying Finance and French wanting to perform fina
 ## Education
 
 Lehigh University, Bethlehem, PA
+
 _Bachelor of Science in Finance, May 2022_
+
 _Bachelor of Art in French, May 2022_
 
 ## Professional Experience
 
 Office of Student Engagement - Lehigh University, Bethlehem, PA
+
 _Programming Coordinator, Sep 2019 – present_
 
 - Assist with planning and implementation of campus programs and events with the distribution of publicity
@@ -21,6 +24,7 @@ _Programming Coordinator, Sep 2019 – present_
 - Serve as an ambassador for the office and provide information about our resources
 
 Avenida Inc., Toledo, OH
+
 _Operations Manager, July 2018 – Aug 2019_
 
 - Helps customer make selections by building customer confidence; offering suggestions and opinions.
@@ -32,6 +36,7 @@ _Operations Manager, July 2018 – Aug 2019_
 - Manage the different departments of a retail store in order to ensure the store reaches sales objectives.
 
 Enigma MPC, San Francisco, CA
+
 _Marketing Consultant, July 2017 – July 2018_
 
 - Conducting market research to find answers about consumer requirements, habits and trends
